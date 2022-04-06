@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<service>
+  <short>flannel VLAN</short>
+  <description>flannel virtual network for kubernetes</description>
+  <port port="8472" protocol="udp"/>
+</service>

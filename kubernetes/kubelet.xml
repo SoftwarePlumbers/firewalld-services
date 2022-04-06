@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<service>
+  <short>Kubelet API</short>
+  <description>Kubernetes Kubelet API</description>
+  <port port="10250" protocol="tcp"/>
+</service>
