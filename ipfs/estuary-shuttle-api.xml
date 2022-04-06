@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <service>
-  <short>Estuary Shuttle Services</short>
-  <description>Estuary Shuttle Services</description>
+  <short>Estuary Shuttle API Service</short>
+  <description>Estuary Shuttle API Service</description>
   <port port="3005" protocol="tcp" />
 </service>

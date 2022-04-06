@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <service>
-  <short>Estuary Services</short>
-  <description>Estuary Services</description>
+  <short>Estuary API Service</short>
+  <description>Estuary API Service</description>
   <port port="3004" protocol="tcp" />
 </service>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <service>
-  <short>Estuary Shuttle Services</short>
-  <description>Estuary Shuttle Services</description>
+  <short>Estuary Shuttle Swarm Service</short>
+  <description>Estuary Shuttle Swarm Service</description>
   <port port="6745" protocol="tcp" />
   <port port="6746" protocol="udp" />
   <port port="6747" protocol="tcp" />
