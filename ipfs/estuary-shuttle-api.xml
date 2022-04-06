@@ -2,7 +2,5 @@
 <service>
   <short>Estuary Shuttle Services</short>
   <description>Estuary Shuttle Services</description>
-  <port port="6745" protocol="tcp" />
-  <port port="6746" protocol="udp" />
-  <port port="6747" protocol="tcp" />
+  <port port="3005" protocol="tcp" />
 </service>

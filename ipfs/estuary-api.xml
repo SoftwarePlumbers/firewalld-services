@@ -2,5 +2,5 @@
 <service>
   <short>Estuary Services</short>
   <description>Estuary Services</description>
-  <port port="6744" protocol="tcp" />
+  <port port="3004" protocol="tcp" />
 </service>
