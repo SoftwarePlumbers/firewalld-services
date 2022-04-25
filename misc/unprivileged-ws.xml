@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<service>
+  <short>Unpriviliged Web Service</short>
+  <description>Unprivileged Web Service</description>
+  <port port="8080" protocol="tcp" />
+  <port port="8443" protocol="tcp" />
+</service>
