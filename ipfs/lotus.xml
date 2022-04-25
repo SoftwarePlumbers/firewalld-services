@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<service>
+  <short>Lotus Daemon Swarm Service</short>
+  <description>Lotus Daemon Swarm Service</description>
+  <port port="6665" protocol="tcp" />
+</service>

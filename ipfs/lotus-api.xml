@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<service>
+  <short>Estuary API Service</short>
+  <description>Estuary API Service</description>
+  <port port="1234" protocol="tcp" />
+</service>
