@@ -3,4 +3,6 @@
   <short>Estuary Swarm Service</short>
   <description>Estuary Swarm Service</description>
   <port port="6744" protocol="tcp" />
+  <port port="6746" protocol="udp" />
+  <port port="6747" protocol="tcp" />
 </service>
