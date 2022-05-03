@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<service>
+  <short>IPFS Swarm Service</short>
+  <description>IPFS Swarm Service</description>
+  <port port="4001" protocol="tcp" />
+  <port port="4001" protocol="udp" />
+</service>

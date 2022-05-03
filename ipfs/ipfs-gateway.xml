@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<service>
+  <short>IPFS Gateway Service</short>
+  <description>IPFS Gateway Service</description>
+  <port port="8080" protocol="tcp" />
+</service>
