@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<service>
+  <short>DSM</short>
+  <description>Dell Server Manager</description>
+  <port port="1311" protocol="tcp" />
+</service>
