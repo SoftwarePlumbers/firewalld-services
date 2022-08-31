@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<service>
+  <short>statd</short>
+  <description>NFS Statd (set in /etc/nfs.conf)</description>
+  <port port="43213" protocol="tcp" />
+  <port port="43213" protocol="udp" />
+</service>

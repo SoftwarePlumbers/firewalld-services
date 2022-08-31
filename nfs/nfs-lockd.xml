@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<service>
+  <short>lockd</short>
+  <description>NFS Lockd (set in /etc/nfs.conf)</description>
+  <port port="43211" protocol="tcp" />
+  <port port="43212" protocol="ucp" />
+</service>
